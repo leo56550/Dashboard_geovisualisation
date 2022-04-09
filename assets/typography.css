@@ -1,0 +1,8 @@
+h1, h2, body {
+    color: rgb(255, 180, 100);
+    font-family: calibri;
+}
+
+h1 {
+  font-size: 300%
+}

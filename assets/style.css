@@ -1,0 +1,15 @@
+body, div {
+  background-color: rgb(25, 25, 25);
+}
+
+/*
+html, body {
+  height: 100hv;
+  width: 50wv;
+}
+*/
+
+.Select.has-value.Select--single > .Select-control .Select-value .Select-value-label, .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value .Select-value-label {
+  color: rgb(255, 180, 100);
+}
+
